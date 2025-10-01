@@ -4,6 +4,8 @@ description: Midterm exam on atmosphere, ocean, and climate dynamics.
 file: /courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/74bf587f31d9ae0b4adafd5259ce1888_midterm.pdf
 file_size: 72421
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

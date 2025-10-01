@@ -54,4 +54,4 @@ Finally, think about the relevance of the experiment to the thermohaline circula
 
 What do the parameters S, α, L and Ω correspond to oceanographically?  Insert some oceanographic values for S, α, L and Ω, and hence estimate typical current speeds associated with thermohaline flow in the ocean.
 
-Look at a simulation of CFC's invading the ocean {{% resource_link "0ec0b30b-5712-47a4-87d6-057ead14af16" "here" %}}.
+Look at a simulation of CFC's invading the ocean [here](http://puddle.mit.edu/~mick/cfcall.html).

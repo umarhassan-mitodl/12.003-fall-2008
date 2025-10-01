@@ -5,6 +5,8 @@ description: 'Diagram of the shape of the free-surface of water on a parabolic t
 file: /courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/d21c95b0d7d725d2d5953c26c8ffd8ba_parabolic.jpg
 file_size: 9592
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

@@ -4,6 +4,8 @@ description: 'Thumbnail image for lab experiment GFDXII: Ekman pumping and sucti
 file: /courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/d34a62196a34466e4067f91b8ef43878_thumb12stressdriven.JPG
 file_size: 1997
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

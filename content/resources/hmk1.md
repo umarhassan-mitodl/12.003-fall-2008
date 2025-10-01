@@ -4,6 +4,8 @@ description: Problem set on the Earth's radiation budget.
 file: /courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/46fcd74720470edfe39c6417f08a18a9_hmk1.pdf
 file_size: 134613
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

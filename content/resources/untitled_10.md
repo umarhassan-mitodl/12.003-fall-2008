@@ -5,6 +5,8 @@ description: Image of formula supporting a midterm exam on atmosphere, ocean, an
 file: /courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/9f4331c40af7c1bc01c7550ddb373bf2_untitled_10.jpg
 file_size: 2553
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

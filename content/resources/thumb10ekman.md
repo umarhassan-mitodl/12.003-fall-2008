@@ -4,6 +4,8 @@ description: 'Thumbnail image for lab experiment GFDX: Ekman layers.'
 file: /courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/0cde7d940e1b0df8673c8b2ad7d05e53_thumb10ekman.jpg
 file_size: 1876
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

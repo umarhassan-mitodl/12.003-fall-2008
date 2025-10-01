@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: ''
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 ocw_type: CourseSection
@@ -28,6 +30,6 @@ The resin is poured into the form while it is rotating at the desired speed. The
 
 A total of 3,000ml of resin (combined total of part A and part B) was enough for a 42" parabola for a rotation rate of f = 2. This included a little extra as insurance. Strict adherence to all manufacturer guidelines is a good investment and will prevent wasted time and material.
 
-Smooth-On resin was chosen because of its availability, minimum odor and because mixing was done by volume, eliminating the need for expensive scales. Odor is a major factor as the mixing, pouring and curing is done in the lab and on the rotating turntable. When adding color tint or any additive, it is possible to create problems, such as inability to harden. Excessive amounts or incompatible additives can prevent curing. Do sample tests when using additives. We used the manufacturer's own color tint, using only a few drops and no other additives. The resin may be purchased on the web at {{% resource_link "1fae6ad7-fc8e-4dd2-bd0b-9d68fccf35e6" "www.smooth-on.com" %}}. Order Smooth-Cast 322, liquid plastic casting resin, slow setting off-white resin in the gallon Unit at $58.45 each. Each unit has a gallon of part A and a gallon of part B. Two units are required for a 42" diameter parabola and allows extra for experimentation.
+Smooth-On resin was chosen because of its availability, minimum odor and because mixing was done by volume, eliminating the need for expensive scales. Odor is a major factor as the mixing, pouring and curing is done in the lab and on the rotating turntable. When adding color tint or any additive, it is possible to create problems, such as inability to harden. Excessive amounts or incompatible additives can prevent curing. Do sample tests when using additives. We used the manufacturer's own color tint, using only a few drops and no other additives. The resin may be purchased on the web at [www.smooth-on.com](http://www.smooth-on.com/). Order Smooth-Cast 322, liquid plastic casting resin, slow setting off-white resin in the gallon Unit at $58.45 each. Each unit has a gallon of part A and a gallon of part B. Two units are required for a 42" diameter parabola and allows extra for experimentation.
 
 Sand the cured surface lightly with a medium grade sandpaper to remove irregularities and finish sand with a 300 or 400 grade wet or dry sandpaper until the surface is very smooth to the touch. Sand uniformly over the surface to preserve the parabola shape. The surface can be used as is, or automotive primer and paint applied.

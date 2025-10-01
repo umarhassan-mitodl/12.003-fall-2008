@@ -4,6 +4,8 @@ description: 'Photo of lab setup from GFDIII: Radial inflow.'
 file: /courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/92cb550de59b258c0da615beb9b87fb9_MVC009F.jpg
 file_size: 21222
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

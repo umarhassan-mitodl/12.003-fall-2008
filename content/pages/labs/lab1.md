@@ -58,4 +58,4 @@ Have a look at more Taylor columns here:
 
 - {{% resource_link "f538a37a-8447-4a8d-c0da-b817051c07ab" "Experiment 0: Rotating Fluids 2" %}}
 
-Have a look here to learn about the life of {{% resource_link "c1a46058-8fb1-4e4f-a7b0-6056b05924e4" "G I Taylor" %}}.
+Have a look here to learn about the life of [G I Taylor](https://en.wikipedia.org/wiki/G._I._Taylor).

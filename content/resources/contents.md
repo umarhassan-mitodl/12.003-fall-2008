@@ -6,6 +6,8 @@ description: 'Table of contents from the course textbook: Marshall, John, and R.
 file: /courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/cf50acd7bcd19d8eb5c1d01714467d13_contents.pdf
 file_size: 76196
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
