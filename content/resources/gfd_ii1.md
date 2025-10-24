@@ -4,8 +4,6 @@ description: 'Diagram of the apparatus for lab experiment GFDII: Convection.'
 file: /courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/2b58236d70ec6d6ae85515da9b570361_gfd_ii1.gif
 file_size: 8063
 file_type: image/gif
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

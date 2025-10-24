@@ -4,8 +4,6 @@ description: 'Thumbnail image for lab experiment GFDXIV: Thermohaline circulatio
 file: /courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/beaff72c97c137a74929f5cfc523a70b_thumb14thermohaline.JPG
 file_size: 1989
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

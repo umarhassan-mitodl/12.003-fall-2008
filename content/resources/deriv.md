@@ -4,8 +4,6 @@ description: Supporting MATLAB file for a problem set on geostrophic balance.
 file: /courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/af8b32248eea80a7afd955ace26eb859_deriv.m
 file_size: 3258
 file_type: text/plain
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

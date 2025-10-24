@@ -4,8 +4,6 @@ description: 'Thumbnail image for lab experiment GFDXI: Atmospheric general circ
 file: /courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/545b5bbfa6df7692394a977c4647ae82_thumb11generalcirc.JPG
 file_size: 2147
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

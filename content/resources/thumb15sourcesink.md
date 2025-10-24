@@ -4,8 +4,6 @@ description: Thumbnail photo of a lab experiment.
 file: /courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/25275b7e08b36fce2225e6a26c109efe_thumb15sourcesink.JPG
 file_size: 2218
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

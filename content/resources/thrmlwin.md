@@ -4,8 +4,6 @@ description: 'Diagram of lab setup from GFDVIII: Thermal wind and Hadley circula
 file: /courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/8dbd101c2646c968c3347364c2f633f4_thrmlwin.jpg
 file_size: 8370
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

@@ -4,8 +4,6 @@ description: Photo of the apparatus for a lab experiment on convection.
 file: /courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/fa0dc7c0b19b5a8e8dab7cfb77be10fe_DzlItem269.jpg
 file_size: 14754
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

@@ -4,8 +4,6 @@ description: Problem set on convection and moist processes.
 file: /courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/74e6557348cfbfaf3b4aa9288edeab99_homework5.pdf
 file_size: 70161
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
